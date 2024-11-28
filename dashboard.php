@@ -228,7 +228,7 @@ header {
  <!-- Header -->
  <header>
         <div class="logo">
-        <img src="img/.jpg" alt="Logo" />
+        <img src="img/nubas.jpg" alt="Logo" />
         <img src="img/bonet.png" alt="Logo" />
         </div>
         <div class="search">
@@ -245,7 +245,7 @@ header {
   <div class="header">
     <div class="main">
   <div class="list-item">
-  <a href="dashboard2.php">
+  <a href="dashboard.php">
         <img src="home.svg" alt="" class="icon">
         <span class="description">Dashboard</span>
       </a>
